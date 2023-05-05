@@ -23,6 +23,16 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.container {
+  display: flex;
+  /* border: 1px solid red; */
+}
+.card {
+  margin: 100px;
+
+  border: 1px solid red;
+  width: 15%;
+}
 
 .App-link {
   color: #61dafb;
